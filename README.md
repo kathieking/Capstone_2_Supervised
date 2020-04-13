@@ -1,4 +1,4 @@
-# Capstone_3_Supervised
+# Capstone_2_Supervised
 ## Predicting 30-day Readmission for Heart Failure Patients
 
 ### Background 
